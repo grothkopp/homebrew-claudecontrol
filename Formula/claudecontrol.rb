@@ -1,8 +1,8 @@
 class Claudecontrol < Formula
   desc "Menubar app surfacing the Claude desktop app's tasks across Chat/Cowork/Code"
   homepage "https://github.com/grothkopp/claudecontrol"
-  url "https://github.com/grothkopp/claudecontrol/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "4782c5d9348d7cbf18ea2b11990a2317971382553703cb0d6a6f2d064ed1e86c"
+  url "https://github.com/grothkopp/claudecontrol/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "bad58df2fab5e157578a2c81dd41331aa0564d08144b4be1ffe7b9af23701543"
   license "MIT"
 
   depends_on "uv"
